@@ -1,0 +1,8 @@
+The NXP eiq supports the most popular NN inference framework running on its imx and LS platforms.
+To better validate NN inference framework on its platforms, a tar ball is provided here which includes a shell script
+and some necessary NN models and images used for testing.
+Currently it only supports funtinal validation for below NN frameworks:
+(1)armnn
+(2)acl
+(3)tflite
+(4)onnxruntime 
